@@ -8,4 +8,6 @@
 
 有时我的话可能不专业或完全错，因为我太菜了啥也不会，你看我这简陋的README你就明白了，所以敬请谅解和指正
 
+我的好盆友是@chichundan，我们@lscl-co的代码都是他写的（
+
 你可以通过se@wcgplaygenshinimpact.cloudns.org联系我
