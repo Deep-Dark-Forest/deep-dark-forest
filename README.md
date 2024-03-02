@@ -2,7 +2,7 @@
 
 我现在在四川成都上大学
 
-我出生在sheep-city（你能猜出是哪里吗[~](https://baike.baidu.com/item/%E5%B9%BF%E5%B7%9E%E5%B8%82/21808))
+我出生在sheep-city（你能猜出是哪里吗[?](https://baike.baidu.com/item/%E5%B9%BF%E5%B7%9E%E5%B8%82/21808))
 
 我几乎不会任何代码，除了一些抠脚级别的html
 
